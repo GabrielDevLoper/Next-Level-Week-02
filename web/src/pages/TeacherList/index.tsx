@@ -42,7 +42,8 @@ const TeacherList: React.FC = () => {
               { value: "História", label: "História" },
               { value: "Ciências", label: "Ciências" },
               { value: "Português", label: "Português" },
-              { value: "Quimica", label: "Quimica" },
+              { value: "Química", label: "Química" },
+              { value: "Biologia", label: "Biologia" },
             ]}
           />
           <Select

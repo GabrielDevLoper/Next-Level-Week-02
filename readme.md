@@ -14,6 +14,10 @@
 
 ![](assets/professores.gif)
 
+- Observação: no campo avatar colocamos um link de uma foto que ja tenha feito upload em outra plataforma e apenas rederizamos a imagem
+
+![](assets/avatar.gif)
+
 ## Filtragem de professores feita por alunos
 
 ![](assets/alunos.gif)

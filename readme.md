@@ -10,7 +10,7 @@
 
 ![](assets/Home-Web.png)
 
-## Cadastro de professores
+## Cadastro de professores, utilizando o frontend-WEB
 
 ![](assets/professores.gif)
 
@@ -18,7 +18,7 @@
 
 ![](assets/avatar.gif)
 
-## Filtragem de professores feita por alunos
+## Filtragem de professores feita por alunos, utilizando o frontend-WEB
 
 ![](assets/alunos.gif)
 

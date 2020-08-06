@@ -10,6 +10,14 @@
 
 ![](assets/Home-Web.png)
 
+## Cadastro de professores
+
+![](assets/professores.gif)
+
+## Filtragem de professores feita por alunos
+
+![](assets/alunos.gif)
+
 ## Agradecimentos
 
 - Todo meu agradecimento vai a empresa Rocketseat que disponibiliza conteúdos gratuitos com ótima qualidade, inclusive este projeto foi desenvolvido durante uma semana que eles disponibiliza de graça com video todos os dias durante uma semana.

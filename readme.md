@@ -25,3 +25,10 @@
 ## Agradecimentos
 
 - Todo meu agradecimento vai a empresa Rocketseat que disponibiliza conteúdos gratuitos com ótima qualidade, inclusive este projeto foi desenvolvido durante uma semana que eles disponibiliza de graça com video todos os dias durante uma semana.
+
+
+## Desafios 
+
+https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+
+## expo picker
